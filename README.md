@@ -64,6 +64,16 @@ print("RMSE : ",rmse)
 */
 ```
 ## Output:
+## df.head():
+## df.tail():
+## Values of x:
+## Values of y:
+## Values of y prediction:
+## Values of y test:
+## Training set graph:
+## Test set graph:
+## Value of MSE,MAE & RMSE:
+
 ![simple linear regression model for predicting the marks scored](sam.png)
 
 

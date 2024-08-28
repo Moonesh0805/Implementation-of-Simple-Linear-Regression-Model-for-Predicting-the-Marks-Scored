@@ -65,16 +65,32 @@ print("RMSE : ",rmse)
 ```
 ## Output:
 ## df.head():
-## df.tail():
-## Values of x:
-## Values of y:
-## Values of y prediction:
-## Values of y test:
-## Training set graph:
-## Test set graph:
-## Value of MSE,MAE & RMSE:
+![image](https://github.com/user-attachments/assets/85c63e60-5c75-44ad-a3b9-bf3e45a55ca4)
 
-![simple linear regression model for predicting the marks scored](sam.png)
+## df.tail():
+![image](https://github.com/user-attachments/assets/4e557252-a9ea-4dcf-a6af-6a9b7d82707b)
+
+## Values of x:
+![image](https://github.com/user-attachments/assets/2fb45f59-5b66-4298-81f3-8f546c285c14)
+
+## Values of y:
+![image](https://github.com/user-attachments/assets/21e4df14-9075-4358-963e-3120bb64ba55)
+
+## Values of y prediction:
+![image](https://github.com/user-attachments/assets/4b7f559b-a4d6-468b-826c-d73401e883d7)
+
+## Values of y test:
+![image](https://github.com/user-attachments/assets/1e77c027-f6a4-467c-9e91-79c82091f02e)
+
+## Training set graph:
+![image](https://github.com/user-attachments/assets/3c13338c-fec1-4bee-a4cc-477d3d88c9d8)
+
+## Test set graph:
+![image](https://github.com/user-attachments/assets/6e1b6acb-33a3-4b0d-b3b6-c1036f2b8467)
+
+## Value of MSE,MAE & RMSE:
+![image](https://github.com/user-attachments/assets/f92abeab-acb1-44d1-a7e1-8b563cfc1dce)
+
 
 
 ## Result:
